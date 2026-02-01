@@ -1,6 +1,6 @@
 # 🚚 TransLOG AutoDash: Automação Financeira e de Frota
 
-Este projeto automatiza a extração de dados logísticos, processa indicadores financeiros em Python e gera um Dashboard interativo no Power BI com design "Dark Mode" (Roxo e Laranja).
+Este projeto automatiza a extração de dados logísticos, processa indicadores financeiros em Python e gera um Dashboard interativo no Power BI com design "Dark Mode.
 
 ## 🛠️ O que o sistema faz:
 1. **Extração:** Lê dados brutos de planilhas de transporte.
