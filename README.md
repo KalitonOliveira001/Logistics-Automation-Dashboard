@@ -15,4 +15,4 @@ Este projeto automatiza a extração de dados logísticos, processa indicadores 
 
 ## 🎨 Design:
 - Interface em **Dark Mode** para alta legibilidade.
-- Gráficos em **Laranja e Violeta** baseados na identidade visual do cliente.
+- Gráficos  baseados na identidade visual do cliente.
